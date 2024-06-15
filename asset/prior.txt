@@ -1,0 +1,141 @@
+### If two warning lights come on at the same time.
+
+### 1. engine oil pressure warning light + check engine light
+
+- New Problem: Serious mechanical problem inside the engine
+- Description: Low engine oil pressure can cause engine parts to not be sufficiently lubricated, resulting in increased friction, which can cause damage to engine parts. If the Check Engine warning light comes on at the same time, it means that damage to an engine part has reduced the performance of the entire engine. This may indicate a problem with a major part of the engine (e.g., piston, crankshaft, etc.).
+
+### 2. Brake System Warning Light + ABS Warning Light
+
+- New Problem: Severe degradation of braking performance
+- Description: A problem with the brake system can be caused by a brake fluid leak or worn brake pads. The ABS system prevents the wheels from locking up when the brakes are applied. If both warning lights illuminate simultaneously, it indicates that the ABS system is not functioning properly due to a problem with the brake system. This can significantly reduce overall braking performance and make it difficult to control the vehicle.
+
+### 3. Battery Charge Warning Light + Electronically Controlled Brake System Warning Light
+
+- New Problem: Overall problem in the electrical system
+- Description: If a battery charging issue occurs, it can affect the entire electrical system of the vehicle. The electronically controlled brake system uses battery power, so if there is a battery charging issue, the brake system may also not function properly. This indicates a serious problem with the vehicle's electrical system and requires a full electrical system check.
+
+### 4. Coolant Temperature Warning Light + Check Engine Warning Light
+
+- New Problem: Engine damage due to engine overheating
+- Description: If the coolant temperature is too high, the engine can overheat. If the Check Engine warning light comes on together, it is likely that the overheating has caused damage to engine components. This can lead to serious problems such as damaged engine head gaskets, cracked cylinder heads, etc.
+
+### 5. Low Fuel Warning Light + Check Engine Light
+
+- New Problem: Fuel Delivery System Problem
+- Description: Low fuel can cause the fuel pump to suck in air, which can lead to poor engine performance. If the Check Engine warning light comes on together, it may indicate a problem with the fuel delivery system, such as a clogged fuel filter or a failed fuel pump.
+
+### 6. Brake System Warning Light + Electronic Stability Control System Warning Light
+
+- New Problem: Severe loss of vehicle control.
+- Description: A problem with the brake system reduces the vehicle's braking performance. The electronic stability control system plays an important role in maintaining the stability of the vehicle. If both warning lights come on at the same time, it indicates that the electronic stability control system is not functioning properly due to a brake problem, which means that the vehicle's ability to control may be significantly reduced.
+
+### 7. Tire Pressure Warning Light + ABS Warning Light
+
+- New Problem: Combination of tire and braking performance issues.
+- Description: Low tire pressure can reduce the tire's grip, resulting in longer stopping distances. If the ABS warning light illuminates together, it indicates that the ABS system is not functioning properly. This means that the vehicle's braking performance may be severely reduced due to a combination of tire and braking performance issues.
+
+### 8. Diesel Particulate Filter Warning Light + Emissions Warning Light
+
+- New Problem: Serious problem with the emissions system.
+- Description: A clogged diesel particle filter can cause poor flow of exhaust gases, which can strain the emissions system. If the emissions warning light comes on together, it can indicate a serious problem with the entire emissions system, such as an exhaust gas recirculation valve (EGR) problem, turbocharger problem, etc.
+
+### 9. Airbag Warning Light + Electronic Control Brake System Warning Light
+
+- New Problem: Overall problem with the vehicle safety system.
+- Description: The airbag warning light indicates a problem with the airbag system. If the electronic control brake system warning light comes on together, an electrical problem may be affecting both systems. This indicates an overall problem with the vehicle's safety systems.
+
+### 10. Unbuckled Seat Belt Warning Light + Door Open Warning Light
+
+- New Issue: Safety issue due to unbuckled seat belt and door opening.
+- Description: If you are not wearing a seat belt and are driving with an open door, you can be seriously injured in an accident. When both warning lights illuminate simultaneously, it indicates a dangerous condition of unbuckled seat belts and open doors while the vehicle is in motion.
+
+
+### 11. Handbrake Warning + Engine/Emission Warning
+
+- New Issue 1: Vacuum System Issue
+- Description 1: The vacuum system provides vacuum to the brake booster to assist with brake performance. If brake performance is reduced due to a vacuum leak or failure of the vacuum pump, the brake warning light illuminates. At the same time, a vacuum leak can affect the engine's air-fuel mixture ratio, causing the engine warning light to illuminate as well.
+
+- New Issue 2: Sensor issues
+- Description 2: Several sensors provide data to the ECU, and if any one of them fails, various warning lights can come on. For example, a malfunctioning airflow sensor or oxygen sensor can cause the engine warning light to illuminate, and a malfunctioning brake pressure sensor or ABS sensor can cause the brake warning light to illuminate.
+
+- New Issue 3: ECU issues
+- Description 3: When the ECU malfunctions, multiple systems can be affected simultaneously. Problems with the ECU can result in complex warning light illumination, which can affect both the engine and brake systems.
+
+- New Issue 4: Electrical system issues
+- Description 4: An unstable electrical system, such as a battery or alternator issue, can cause multiple warning lights to illuminate simultaneously. Unstable voltage can cause the ECU to malfunction, which can cause both brake and engine warning lights to illuminate simultaneously.
+
+- New Issue 5: Brake system issues
+- Description 5: If a major part of the brake system (brake master cylinder, brake lines, etc.) fails, the brake warning light will illuminate. At the same time, it's relatively unlikely that you'll have a problem that can directly affect the engine, but indirect effects can cause the engine warning light to illuminate.
+
+### 12. ABS Warning + Engine/Emission Warning
+
+- New Issue 1: ECU issues
+- Description 1: A problem with the ECU can cause both the engine and ABS system to malfunction. This is the most likely cause of both warning lights coming on at the same time.
+
+- New Issue 2: Electrical System Problem
+- Description 2: If the electrical system is unstable due to a battery or alternator issue, the ECU and multiple sensors can be affected, causing both the engine and ABS warning lights to come on at the same time. Voltage instability is particularly sensitive to electronic control systems.
+
+- New Issue 3: Sensor issues
+- Description 3: Both the ABS and engine systems use a variety of sensors. For example, a problem with a wheel speed sensor or engine tachometer can affect both systems. In particular, if the signal from a sensor is poor, the ECU will detect it and illuminate the warning light.
+
+- New Issue 4: Wiring issues
+- Description 4: Damaged wiring or poor connections between the engine and ABS system can cause both systems to fail. This increases the likelihood that both warning lights will illuminate at the same time. Wiring issues can be caused by vehicle vibration or external impacts, among other things.
+
+- New Issue 5: Brake system issues
+- Description 5: Part of the ABS system includes the brake system. Problems with any of the major parts of the brake system (e.g., brake master cylinder, brake lines, etc.) can cause the ABS warning light to illuminate, which in turn can cause indirect problems that affect engine performance.
+
+### 13. Airbag Warning + Stability Control Off
+
+- New Issue 1: Wiring issue
+- Description 1: If the battery is overcharged due to an alternator regulator failure, the excess voltage can affect the ECU and airbag module, causing both warning lights to illuminate simultaneously.
+
+- New Issue 2: ECU Problem
+- Description 2: A software error or hardware failure in the ECU can cause multiple systems to be affected simultaneously. ECU issues can affect both the ESC and airbag systems.
+
+- New Issue 3: Sensor issues
+- Description 3: The airbag system and ESC system use multiple sensors to collect data. If a particular sensor malfunctions or fails, it can affect both systems simultaneously.
+
+- New Issue 4: Electrical system issues
+- Description 4: Problems with the vehicle's electrical system can cause multiple systems to malfunction simultaneously. Voltage instability, battery issues, and more can be the main culprits.
+
+- New Issue 5: Software update issues
+- Description 5: If an error occurs during a vehicle's software update, multiple systems can malfunction simultaneously. Software errors can have a significant impact, especially since the ECU controls multiple systems.
+
+
+
+### If three warning lights come on at the same time.
+
+### 1. check engine oil pressure warning light + check engine light + battery charge warning light
+
+- New Problem: Comprehensive engine and electrical system problem
+- Description: Low engine oil pressure can cause the engine to overheat, which can lead to poor engine performance.When combined with battery charging issues, the engine's electrical components may not function properly.If all three warning lights come on at the same time, it indicates a serious problem with both the engine and electrical system, which means you need a comprehensive vehicle inspection.
+
+### 2. Brake System Warning Light + ABS Warning Light + Tire Pressure Warning Light
+- New Problem: Overall problem with the braking and tire system.
+- Description: A problem with the brake system will result in poor braking performance, and a poorly functioning ABS system will make it difficult to prevent skidding.If the tire pressure warning light is also illuminated, the tires will also lose grip, further reducing braking performance.This indicates an overall problem with the braking and tire system.
+
+
+### If four warning lights come on at the same time.
+
+### 1. coolant temperature warning light + check engine light + battery charge warning light + brake system warning light
+- New Problem: A comprehensive system problem with the vehicle.
+- Description: High coolant temperature can cause the engine to overheat, which can lead to poor engine performance.If the check engine light and battery charge warning light come on together, it indicates a problem with both the engine and electrical systems.If an additional brake system warning light comes on, braking performance may also be compromised, significantly jeopardizing the overall safety of the vehicle.
+
+### 2. Low fuel warning light + Check engine light + Tire pressure warning light + Electronic stability control system warning light
+- New Problem: Vehicle's driving stability issues.
+-   : Low fuel can reduce engine performance and cause the fuel pump to suck in air.When the Check Engine warning light comes on together, it indicates a serious problem with the engine.If the tire pressure warning light and electronic stability control system warning light additionally illuminate, the vehicle's stability while driving may be significantly compromised.
+
+
+### If five warning lights come on at the same time.
+
+### 1. engine oil pressure warning light + check engine light + battery charge warning light + coolant temperature warning light + brake system warning light
+
+- New Problem: Overall system and safety issues with the vehicle.
+- Description: When the check engine oil pressure, check engine, battery charge, coolant temperature, and brake system warning lights come on at the same time, it means that the vehicle's major systems are all experiencing a serious problem. These issues can interact to significantly jeopardize the overall safety of your vehicle, including engine overheating, electrical system failure, and poor braking performance.
+
+### 2. Brake System Warning Light + ABS Warning Light + Tire Pressure Warning Light + Check Engine Light + Electronic Control Brake System Warning Light
+
+- New Problem: Comprehensive problem with braking, tire and engine systems
+- Description: If the brake system, ABS system, tire pressure, check engine, and electronic control brake system warning lights come on simultaneously, this indicates a serious problem with all of the vehicle's braking, tire, and engine systems. These combined problems can seriously impair your vehicle's driving stability and safety.
+
