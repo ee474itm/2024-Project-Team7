@@ -1,14 +1,3 @@
-from langchain_community.chat_models import ChatOllama
-from langchain_core.output_parsers import StrOutputParser
-from langchain.chains import LLMChain, ConversationChain
-from langchain.memory import ConversationBufferMemory
-from langchain_core.messages import SystemMessage
-from langchain.schema.runnable import RunnablePassthrough
-from langchain_core.prompts.chat import (
-    ChatPromptTemplate,
-    HumanMessagePromptTemplate,
-    MessagesPlaceholder,
-)
 import time
 import subprocess as sp
 import sys
@@ -16,8 +5,14 @@ import warnings
 import string
 import random
 
-warnings.filterwarnings(action='ignore')
+from langchain_community.chat_models import ChatOllama
+from langchain_core.output_parsers import StrOutputParser
+from langchain.memory import ConversationBufferMemory
+from langchain.schema.runnable import RunnablePassthrough
+from langchain_core.prompts.chat import ChatPromptTemplate, MessagesPlaceholder
 
+
+warnings.filterwarnings(action='ignore')
 
 class ChatBot:
     def __init__(self, queue):
