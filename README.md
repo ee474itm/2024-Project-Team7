@@ -1,6 +1,4 @@
-# Project Title
-
-**WARNY**: AI Chatbot for Automotive Dashboard Warning Lights
+# **WARNY**: AI Chatbot for Automotive Dashboard Warning Lights
 
 ## Description
 
